@@ -1,7 +1,7 @@
 # Conferences for ML and AI
 
 ## Conferences list
-|Conference|Domain|Approximate date|Note|
+|Conference|Domain|Season|Note|
 |---|---|---|---|
 |[AAAI](https://www.aaai.org/)|Various|Feb||
 |[ICLR](https://iclr.cc/)|Various|May||
